@@ -15,7 +15,7 @@ Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Trademarks
 
-IMPACT™, DECIDE-PLUS™, FIVE-LAYER™, and CHARTER RIGHTS DECISION TREE™ are trademarks of the author. The license above covers the expressive content of this repository; it does not grant rights to the trademarks beyond nominative reference.
+Constitutional Intelligence™, IMPACT™, DECIDE-PLUS™, FIVE-LAYER™, and CHARTER RIGHTS DECISION TREE™ are trademarks of the author. The license above covers the expressive content of this repository; it does not grant rights to the trademarks beyond nominative reference.
 
 ## Not legal advice
 
